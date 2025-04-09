@@ -1,0 +1,6 @@
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/CMakeFiles/ALL_BUILD.dir
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/CMakeFiles/ZERO_CHECK.dir
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/NCLCoreClasses/CMakeFiles/NCLCoreClasses.dir
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/CSC8503CoreClasses/CMakeFiles/CSC8503CoreClasses.dir
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/CSC8503/CMakeFiles/CSC8503.dir
+C:/Users/brode/Documents/Programming/C++/Uni/CSC8508/OpenGLRendering/CMakeFiles/OpenGLRendering.dir

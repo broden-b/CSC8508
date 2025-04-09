@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\CMakeFiles\CSC8503.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\GameTechRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\NetworkedGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\NetworkPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\StateGameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\TutorialGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\AnimationController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\AnimationObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\jsonParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameBase.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameConfigManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameLevelManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\ImGuiManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameSettingManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\AudioManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\Networking\SteamManager.cpp">
+      <Filter>Prison Escape Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Levels\Level.cpp">
+      <Filter>Prison Escape Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Levels\SampleLevel.cpp">
+      <Filter>Prison Escape Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\PatrolEnemy\PatrolEnemy.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\PursuitEnemy\PursuitEnemy.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\CameraEnemy\CameraEnemy.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\Player\Player.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\Button.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\puzzleT.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\Collectables\Coin.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\HidingArea.cpp">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\GameplayState.cpp">
+      <Filter>Prison Escape States</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\MenuState.cpp">
+      <Filter>Prison Escape States</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\PauseState.cpp">
+      <Filter>Prison Escape States</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\GameoverState.cpp">
+      <Filter>Prison Escape States</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\GameTechRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\NetworkedGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\NetworkPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\StateGameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\TutorialGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\AnimationController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\AnimationObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\jsonParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\json.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameBase.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameConfigManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameLevelManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\ImGuiManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\GameSettingManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\AudioManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Core\Networking\SteamManager.h">
+      <Filter>Prison Escape Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Levels\Level.h">
+      <Filter>Prison Escape Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Levels\SampleLevel.h">
+      <Filter>Prison Escape Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\PatrolEnemy\PatrolEnemy.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\PursuitEnemy\PursuitEnemy.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\CameraEnemy\CameraEnemy.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\Player\Player.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\Button.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\puzzleT.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\Collectables\Coin.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\Scripts\puzzle\HidingArea.h">
+      <Filter>Prison Escape Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\GameplayState.h">
+      <Filter>Prison Escape States</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\GameState.h">
+      <Filter>Prison Escape States</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\MenuState.h">
+      <Filter>Prison Escape States</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\PauseState.h">
+      <Filter>Prison Escape States</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\PrisonEscape\States\GameoverState.h">
+      <Filter>Prison Escape States</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\CMakeFiles\CSC8503.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\CMakeFiles\CSC8503.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7BE73289-2049-3FA0-BF3D-C0304272D796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{62A13DE8-1351-3630-8582-414C5C9CAB0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Prison Escape Core">
+      <UniqueIdentifier>{15C40367-71C9-3161-97DC-CDB3815BA230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Prison Escape Levels">
+      <UniqueIdentifier>{3CA266B8-D791-397B-A1D5-89A97327931D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Prison Escape Scripts">
+      <UniqueIdentifier>{C6BD0C24-1B43-3588-873B-AFC1D5E3B551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Prison Escape States">
+      <UniqueIdentifier>{6316271D-CC5C-3C94-BA8D-41C6D98E4AE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2B80727D-817A-32C3-8FE6-F486BF0AADBF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

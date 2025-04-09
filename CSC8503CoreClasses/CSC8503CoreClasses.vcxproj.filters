@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Debug.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameWorld.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\RenderObject.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Transform.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\RenderObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourAction.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourNode.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourNodeWithChildren.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourSelector.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourSelector.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourSequence.h">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\BehaviourSequence.cpp">
+      <Filter>AI\Behaviour Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PushdownMachine.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PushdownMachine.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PushdownState.h">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PushdownState.cpp">
+      <Filter>AI\Pushdown Automata</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\State.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\StateMachine.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\StateMachine.cpp">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\StateTransition.h">
+      <Filter>AI\State Machine</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationGrid.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationGrid.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationMesh.cpp">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationMesh.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationMap.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NavigationPath.h">
+      <Filter>AI\Pathfinding</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\AABBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CapsuleVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CapsuleVolume.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CollisionDetection.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CollisionDetection.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CollisionVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\OBBVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\QuadTree.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\QuadTree.cpp">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Ray.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\SphereVolume.h">
+      <Filter>Collision Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameClient.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameClient.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameServer.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\GameServer.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkBase.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkBase.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkObject.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkObject.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkState.h">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\NetworkState.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\Constraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PositionConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PositionConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\OrientationConstraint.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\OrientationConstraint.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PhysicsObject.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PhysicsObject.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PhysicsSystem.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\PhysicsSystem.h">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\callbacks.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\list.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\list.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\protocol.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\protocol.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\win32.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\win32.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\enet.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\time.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\types.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\utility.h">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\compress.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\host.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\packet.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\enet\peer.c">
+      <Filter>eNet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imconfig.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_tables.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_demo.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_draw.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_internal.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_widgets.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imstb_rectpack.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imstb_textedit.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imstb_truetype.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_impl_opengl3.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_impl_opengl3.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_impl_win32.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\imgui\imgui_impl_win32.h">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CMakeFiles\CSC8503CoreClasses.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8508\CSC8503CoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AI">
+      <UniqueIdentifier>{060ECA2F-6CF4-3243-B02E-8BA81C13B2A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Behaviour Trees">
+      <UniqueIdentifier>{F2EDB75D-69C3-3169-B05C-90CA34826A90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pathfinding">
+      <UniqueIdentifier>{E63637C7-9E4C-3973-B9C7-700FBA7FCAB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\Pushdown Automata">
+      <UniqueIdentifier>{9603BB5B-BAA3-3720-9DA6-73B92448C129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI\State Machine">
+      <UniqueIdentifier>{6A131CBC-C973-3D03-AF37-88DF1089910B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision Detection">
+      <UniqueIdentifier>{62EE4A7C-5A0F-396C-B6B0-52CBFAEDCC0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7BE73289-2049-3FA0-BF3D-C0304272D796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Imgui">
+      <UniqueIdentifier>{AA069755-6A3D-3B07-BCDA-5758D4495E2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{BC982BE0-911F-321C-A824-2F62031CD2B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{FD08CB53-86DD-3293-9666-B8685A342B1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{62A13DE8-1351-3630-8582-414C5C9CAB0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2B80727D-817A-32C3-8FE6-F486BF0AADBF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="eNet">
+      <UniqueIdentifier>{A3BD7EBD-3B0B-39FF-A2F1-B36BE06904FC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
